@@ -77,7 +77,3 @@ Example:
 ## Expected Outcome
 
 All automated tests should pass successfully.
-
-## Author
-
-Week 3 Python Automated Testing Assignment
